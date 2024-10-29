@@ -40,7 +40,7 @@ btn.addEventListener("click", ()=>{
             }
         }
     }
-    
+
     console.trace(getPrime());
 })
 
