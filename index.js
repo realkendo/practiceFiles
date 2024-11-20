@@ -16,8 +16,6 @@
 // 4. logical operators = &&, || 
 
 
-
-
 // const body = document.querySelector('body');
 const input = document.querySelector('.myInput');
 const btn = document.querySelector('.btn');

@@ -1,0 +1,13 @@
+body{
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+
+.myForm{
+  border: 1px solid blue;
+  border-radius: 4px;
+  box-shadow: 4px tomato;
+  padding: 5px 5px;
+  display: grid;
+}
