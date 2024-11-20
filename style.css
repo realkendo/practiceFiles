@@ -10,4 +10,14 @@ body{
   box-shadow: 4px tomato;
   padding: 5px 5px;
   display: grid;
+  align-items: center;
+  justify-content: center;
+}
+
+input{
+  padding: 2px 2px;
+}
+
+.btn{
+  width: 80px;
 }
