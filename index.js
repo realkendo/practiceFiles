@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // // let name = "Kenneth";
 // // let age = 4;
 // // let isOnline = false;
@@ -42,3 +43,6 @@
 // // btn.addEventListener('click', (e) => {
 // //     console.log("clicked");
 // // });
+=======
+console.log("This is a new branch");
+>>>>>>> 2dd7e3c638c2943c71646eb14f2152beb7f98720
